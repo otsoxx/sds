@@ -553,3 +553,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Jan2025 05:20:21.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Bypassing the Expiration Date]
 [19Jan2025 05:22:14.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has reached the goal [Senior Summoner]
 [19Jan2025 05:23:56.872] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[19Jan2025 05:27:27.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Voluntary Exile]
+[19Jan2025 05:31:32.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19Jan2025 05:32:41.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Voluntary Exile]
+[19Jan2025 05:33:17.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has completed the challenge [Hero of the Village]
+[19Jan2025 05:33:17.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has completed the challenge [Hero of the Village]
+[19Jan2025 05:34:25.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [It Belongs in a Museum]

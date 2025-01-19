@@ -32,6 +32,7 @@
       "minecraft:ocean": "2025-01-19 05:11:39 +0000",
       "minecraft:flower_forest": "2025-01-19 04:04:12 +0000",
       "minecraft:deep_dark": "2025-01-18 04:21:56 +0000",
+      "minecraft:meadow": "2025-01-19 05:24:00 +0000",
       "minecraft:savanna": "2025-01-18 03:44:30 +0000",
       "minecraft:plains": "2025-01-19 02:34:00 +0000"
     },
@@ -57,7 +58,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-19 05:26:23 +0000",
       "minecraft:skeleton": "2025-01-18 03:53:20 +0000",
+      "minecraft:ravager": "2025-01-19 05:33:12 +0000",
       "minecraft:spider": "2025-01-18 04:02:17 +0000",
       "minecraft:creeper": "2025-01-18 04:01:45 +0000",
       "minecraft:cave_spider": "2025-01-19 03:29:35 +0000",
@@ -707,18 +710,23 @@
     "criteria": {
       "woodland": "2025-01-19 02:24:57 +0000",
       "shrubland": "2025-01-19 02:46:23 +0000",
+      "snowblossom_grove": "2025-01-19 05:31:02 +0000",
       "rocky_shrubland": "2025-01-19 02:45:36 +0000",
       "scrubland": "2025-01-19 02:41:19 +0000",
       "old_growth_woodland": "2025-01-19 03:08:45 +0000",
+      "field": "2025-01-19 05:29:32 +0000",
       "orchard": "2025-01-19 02:42:31 +0000",
       "mediterranean_forest": "2025-01-18 03:54:01 +0000",
+      "coniferous_forest": "2025-01-19 05:25:38 +0000",
       "spider_nest": "2025-01-19 03:29:31 +0000",
       "redwood_forest": "2025-01-19 03:28:34 +0000",
       "pasture": "2025-01-19 05:10:29 +0000",
       "volcanic_plains": "2025-01-19 02:46:40 +0000",
       "lavender_field": "2025-01-19 02:41:48 +0000",
+      "fir_clearing": "2025-01-19 05:24:40 +0000",
       "grassland": "2025-01-19 02:45:58 +0000",
       "prairie": "2025-01-19 03:28:13 +0000",
+      "snowy_fir_clearing": "2025-01-19 05:30:38 +0000",
       "glowing_grotto": "2025-01-19 02:47:03 +0000",
       "rainforest": "2025-01-19 03:07:15 +0000",
       "ominous_woods": "2025-01-19 05:18:28 +0000"
@@ -2195,6 +2203,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-19 05:27:27 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-01-19 02:16:06 +0000"
@@ -2306,6 +2320,12 @@
   "alexscaves:alexscaves/ominous_catalyst": {
     "criteria": {
       "nuclear_bomb": "2025-01-19 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-19 05:33:17 +0000"
     },
     "done": true
   },

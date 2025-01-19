@@ -31,6 +31,7 @@
       "minecraft:deep_cold_ocean": "2025-01-19 05:14:57 +0000",
       "minecraft:ocean": "2025-01-19 05:11:38 +0000",
       "minecraft:flower_forest": "2025-01-19 03:48:23 +0000",
+      "minecraft:meadow": "2025-01-19 05:24:02 +0000",
       "minecraft:savanna": "2025-01-19 02:21:18 +0000",
       "minecraft:plains": "2025-01-19 02:38:14 +0000"
     },
@@ -640,12 +641,15 @@
     "criteria": {
       "woodland": "2025-01-19 02:26:44 +0000",
       "shrubland": "2025-01-19 03:03:44 +0000",
+      "snowblossom_grove": "2025-01-19 05:31:04 +0000",
       "rocky_shrubland": "2025-01-19 03:00:22 +0000",
       "scrubland": "2025-01-19 03:12:28 +0000",
       "floodplain": "2025-01-19 03:01:24 +0000",
       "old_growth_woodland": "2025-01-19 02:59:49 +0000",
       "orchard": "2025-01-19 03:00:01 +0000",
+      "field": "2025-01-19 05:29:38 +0000",
       "mediterranean_forest": "2025-01-19 02:25:27 +0000",
+      "coniferous_forest": "2025-01-19 05:24:29 +0000",
       "spider_nest": "2025-01-19 03:30:08 +0000",
       "redwood_forest": "2025-01-19 03:28:34 +0000",
       "pasture": "2025-01-19 03:52:16 +0000",
@@ -653,6 +657,7 @@
       "lavender_field": "2025-01-19 03:20:54 +0000",
       "grassland": "2025-01-19 03:02:15 +0000",
       "prairie": "2025-01-19 03:28:10 +0000",
+      "snowy_fir_clearing": "2025-01-19 05:30:48 +0000",
       "rainforest": "2025-01-19 03:01:10 +0000",
       "ominous_woods": "2025-01-19 05:18:28 +0000"
     },
@@ -1261,7 +1266,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-19 05:32:38 +0000",
       "minecraft:skeleton": "2025-01-19 02:34:08 +0000",
+      "minecraft:vindicator": "2025-01-19 05:32:41 +0000",
       "minecraft:spider": "2025-01-19 03:55:44 +0000",
       "minecraft:cave_spider": "2025-01-19 03:30:57 +0000",
       "minecraft:zombie": "2025-01-19 03:32:07 +0000"
@@ -2391,6 +2398,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:25:21 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_bow_base": {
     "criteria": {
       "has_req": "2025-01-19 05:17:45 +0000"
@@ -2460,6 +2473,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 04:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:25:21 +0000"
     },
     "done": true
   },
@@ -2541,6 +2560,19 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-01-19 05:28:27 +0000",
+      "trickor_treat_7": "2025-01-19 05:28:29 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-01-19 05:17:45 +0000"
@@ -2583,6 +2615,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-19 05:32:41 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_bow_alt": {
     "criteria": {
       "has_req": "2025-01-19 05:17:45 +0000"
@@ -2616,6 +2654,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-19 05:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-19 05:23:39 +0000"
     },
     "done": true
   },
@@ -2661,6 +2705,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-19 05:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-19 05:17:45 +0000"
@@ -2670,6 +2720,12 @@
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-19 05:11:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:25:21 +0000"
     },
     "done": true
   },
@@ -2721,15 +2777,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:25:21 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_bow_base": {
     "criteria": {
       "has_req": "2025-01-19 05:17:45 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-19 04:53:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:25:21 +0000"
     },
     "done": true
   },
@@ -2757,6 +2831,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 04:53:13 +0000"
@@ -2766,6 +2846,18 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/guardian/guardian_bow_base": {
     "criteria": {
       "has_req": "2025-01-19 05:17:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-19 05:25:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 05:25:17 +0000"
     },
     "done": true
   },
@@ -2865,9 +2957,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 05:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-01-19 04:53:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:25:21 +0000"
     },
     "done": true
   },
@@ -2886,6 +2990,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-19 04:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-19 05:25:21 +0000"
     },
     "done": true
   },
@@ -2943,6 +3053,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-01-19 05:24:29 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/slayer/slayer_bow_base_alt": {
     "criteria": {
       "has_req": "2025-01-19 05:17:45 +0000"
@@ -2982,6 +3098,12 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-19 05:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-19 05:28:32 +0000"
     },
     "done": true
   },
