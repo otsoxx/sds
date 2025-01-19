@@ -634,11 +634,13 @@
       "woodland": "2025-01-19 02:26:44 +0000",
       "shrubland": "2025-01-19 03:03:44 +0000",
       "rocky_shrubland": "2025-01-19 03:00:22 +0000",
+      "scrubland": "2025-01-19 03:12:28 +0000",
       "floodplain": "2025-01-19 03:01:24 +0000",
       "old_growth_woodland": "2025-01-19 02:59:49 +0000",
       "orchard": "2025-01-19 03:00:01 +0000",
       "mediterranean_forest": "2025-01-19 02:25:27 +0000",
       "volcanic_plains": "2025-01-19 03:00:32 +0000",
+      "lavender_field": "2025-01-19 03:20:54 +0000",
       "grassland": "2025-01-19 03:02:15 +0000",
       "rainforest": "2025-01-19 03:01:10 +0000"
     },
@@ -1383,9 +1385,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-01-19 02:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-19 03:13:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-19 03:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-01-19 03:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
     },
     "done": true
   },
@@ -1401,9 +1481,27 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-19 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-01-19 02:59:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-19 03:18:11 +0000"
     },
     "done": true
   },
@@ -1419,15 +1517,45 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-19 02:59:41 +0000"
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-01-19 03:11:48 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/building_blocks/crafting/shapeless/obsidian_stick_adv": {
     "criteria": {
       "has_req": "2025-01-19 02:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/enhanced/en_gold": {
+    "criteria": {
+      "has_req": "2025-01-19 03:16:23 +0000"
     },
     "done": true
   },
@@ -1443,9 +1571,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/compressed_obsidian": {
     "criteria": {
       "has_req": "2025-01-19 02:59:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
     },
     "done": true
   },
@@ -1458,6 +1598,18 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-01-19 02:59:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-19 03:16:23 +0000"
     },
     "done": true
   },

@@ -312,3 +312,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Jan2025 03:07:58.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OTSOXX moved too quickly! -10.112276880233821,0.2712241076924897,-0.5026438669458457
 [19Jan2025 03:07:58.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FazeDinosaurio moved too quickly! -7.049644487310161,-4.975575911786308,5.599262875814702
 [19Jan2025 03:07:58.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Jan2025 03:11:22.492] [pool-5-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-2085, y=88, z=1611}
+[19Jan2025 03:11:23.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2085, y=88, z=1611} but found not block entity block Block{minecraft:air} at location
+[19Jan2025 03:11:23.375] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2085, y=88, z=1611}
+[19Jan2025 03:11:36.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OTSOXX> xaero-waypoint:F:F:-2246:143:1741:11:false:0:Internal-overworld-waypoints
+[19Jan2025 03:11:48.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Double Trouble]
+[19Jan2025 03:12:59.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has reached the goal [Fighting Nightmares]
+[19Jan2025 03:13:24.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Sweet Dreams]
+[19Jan2025 03:15:51.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 03:16:06.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Dark Metallurgy]
+[19Jan2025 03:16:45.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 03:18:11.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Pic-A-Nic Basket?]
+[19Jan2025 03:18:13.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Pic-A-Nic Basket?]
+[19Jan2025 03:26:24.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Dark Forging]
+[19Jan2025 03:30:07.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX was slain by Nightmare Stalker
