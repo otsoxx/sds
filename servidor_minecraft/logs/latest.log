@@ -559,3 +559,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Jan2025 05:33:17.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has completed the challenge [Hero of the Village]
 [19Jan2025 05:33:17.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has completed the challenge [Hero of the Village]
 [19Jan2025 05:34:25.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [It Belongs in a Museum]
+[19Jan2025 05:35:01.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OTSOXX lost connection: Disconnected
+[19Jan2025 05:35:01.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX left the game
+[19Jan2025 05:35:11.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OTSOXX[/100.112.163.127:60343] logged in with entity id 103725 at (-2340.300000011921, 63.0, 692.5493594018615)
+[19Jan2025 05:35:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX joined the game
+[19Jan2025 05:35:37.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OTSOXX lost connection: Disconnected
+[19Jan2025 05:35:37.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX left the game
+[19Jan2025 05:37:53.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Lorem Ipsum]
+[19Jan2025 05:38:28.595] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.InterruptedIOException: Command interrupted
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2363!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2363!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+Caused by: java.io.InterruptedIOException: Command interrupted
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:46) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	... 4 more
+Caused by: java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method) ~[?:?]
+	at java.lang.Object.wait(Object.java:338) ~[?:?]
+	at java.lang.ProcessImpl.waitFor(ProcessImpl.java:434) ~[?:?]
+	at org.jline.utils.ExecHelper.waitAndCapture(ExecHelper.java:66) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:36) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	... 4 more
+[19Jan2025 05:38:53.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FazeDinosaurio lost connection: Timed out
+[19Jan2025 05:38:53.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio left the game
+[19Jan2025 05:38:53.105] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

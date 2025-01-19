@@ -2633,6 +2633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-19 05:33:42 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_bow": {
     "criteria": {
       "has_req": "2025-01-19 05:17:45 +0000"
@@ -2714,6 +2720,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-19 05:17:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-19 05:34:25 +0000"
     },
     "done": true
   },
@@ -2930,6 +2942,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-19 05:12:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-01-19 05:37:53 +0000"
     },
     "done": true
   },
