@@ -53,6 +53,7 @@
       "minecraft:skeleton": "2025-01-18 03:53:20 +0000",
       "minecraft:spider": "2025-01-18 04:02:17 +0000",
       "minecraft:creeper": "2025-01-18 04:01:45 +0000",
+      "minecraft:cave_spider": "2025-01-19 03:29:35 +0000",
       "minecraft:zombie": "2025-01-18 03:46:52 +0000"
     },
     "done": false
@@ -683,6 +684,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-19 03:29:12 +0000",
       "cooked_mutton": "2025-01-19 03:00:05 +0000",
       "cooked_beef": "2025-01-19 02:38:55 +0000",
       "porkchop": "2025-01-18 03:52:26 +0000",
@@ -701,9 +703,12 @@
       "old_growth_woodland": "2025-01-19 03:08:45 +0000",
       "orchard": "2025-01-19 02:42:31 +0000",
       "mediterranean_forest": "2025-01-18 03:54:01 +0000",
+      "spider_nest": "2025-01-19 03:29:31 +0000",
+      "redwood_forest": "2025-01-19 03:28:34 +0000",
       "volcanic_plains": "2025-01-19 02:46:40 +0000",
       "lavender_field": "2025-01-19 02:41:48 +0000",
       "grassland": "2025-01-19 02:45:58 +0000",
+      "prairie": "2025-01-19 03:28:13 +0000",
       "glowing_grotto": "2025-01-19 02:47:03 +0000",
       "rainforest": "2025-01-19 03:07:15 +0000"
     },
@@ -1759,6 +1764,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/enhanced/en_diamond": {
+    "criteria": {
+      "has_req": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-01-19 02:34:22 +0000"
@@ -1795,6 +1812,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
@@ -1804,6 +1833,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-01-19 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
     },
     "done": true
   },
@@ -1885,6 +1920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-01-19 02:16:06 +0000"
@@ -1963,6 +2004,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 02:48:44 +0000"
@@ -1972,6 +2025,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-19 02:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-19 03:28:36 +0000"
     },
     "done": true
   },
@@ -1993,9 +2052,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-01-19 03:33:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_acacia": {
     "criteria": {
       "has_the_recipe": "2025-01-19 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
     },
     "done": true
   },
@@ -2131,6 +2202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-01-19 02:40:17 +0000"
@@ -2173,6 +2250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-19 03:33:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-01-19 03:23:58 +0000"
@@ -2182,6 +2265,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-19 03:28:36 +0000"
     },
     "done": true
   },
@@ -2221,9 +2310,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-19 03:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-19 02:34:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-01-19 03:28:36 +0000"
     },
     "done": true
   },
@@ -2245,9 +2358,27 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-19 03:28:36 +0000"
     },
     "done": true
   },
@@ -2260,6 +2391,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-01-19 02:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-19 03:31:44 +0000"
     },
     "done": true
   },

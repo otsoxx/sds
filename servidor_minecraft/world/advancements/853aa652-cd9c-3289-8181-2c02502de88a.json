@@ -639,9 +639,12 @@
       "old_growth_woodland": "2025-01-19 02:59:49 +0000",
       "orchard": "2025-01-19 03:00:01 +0000",
       "mediterranean_forest": "2025-01-19 02:25:27 +0000",
+      "spider_nest": "2025-01-19 03:30:08 +0000",
+      "redwood_forest": "2025-01-19 03:28:34 +0000",
       "volcanic_plains": "2025-01-19 03:00:32 +0000",
       "lavender_field": "2025-01-19 03:20:54 +0000",
       "grassland": "2025-01-19 03:02:15 +0000",
+      "prairie": "2025-01-19 03:28:10 +0000",
       "rainforest": "2025-01-19 03:01:10 +0000"
     },
     "done": false
@@ -1249,7 +1252,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-19 02:34:08 +0000"
+      "minecraft:skeleton": "2025-01-19 02:34:08 +0000",
+      "minecraft:cave_spider": "2025-01-19 03:30:57 +0000",
+      "minecraft:zombie": "2025-01-19 03:32:07 +0000"
     },
     "done": false
   },
@@ -1385,9 +1390,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-19 03:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-01-19 03:35:46 +0000"
     },
     "done": true
   },
@@ -1421,9 +1438,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-01-19 03:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-19 03:32:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-19 03:28:57 +0000"
     },
     "done": true
   },
@@ -1436,6 +1471,18 @@
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-01-19 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-19 03:32:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-01-19 03:28:57 +0000"
     },
     "done": true
   },
@@ -1457,9 +1504,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-01-19 03:28:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-01-19 03:28:43 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-01-19 03:16:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-01-19 03:31:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-01-19 03:28:57 +0000"
     },
     "done": true
   },
@@ -1469,9 +1540,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-19 03:28:57 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
     "criteria": {
       "has_req": "2025-01-19 02:59:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
+    "criteria": {
+      "has_planks": "2025-01-19 03:28:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-01-19 03:28:57 +0000"
     },
     "done": true
   },
@@ -1487,15 +1576,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-01-19 03:28:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-01-19 03:16:23 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 03:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-01-19 02:59:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-19 03:28:57 +0000"
     },
     "done": true
   },
@@ -1532,6 +1639,12 @@
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2025-01-19 03:11:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-19 03:28:57 +0000"
     },
     "done": true
   },
