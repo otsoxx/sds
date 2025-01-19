@@ -422,3 +422,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Jan2025 04:40:31.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FazeDinosaurio[/100.105.3.54:59854] logged in with entity id 67529 at (-2622.1866718670894, -27.61331641251099, 1234.1941965216147)
 [19Jan2025 04:40:31.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio joined the game
 [19Jan2025 04:41:06.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX tried to swim in lava to escape Relicheirus
+[19Jan2025 04:42:59.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[19Jan2025 04:47:27.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[19Jan2025 04:48:11.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has reached the goal [Suspicious Looking Item]
+[19Jan2025 04:48:18.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported FazeDinosaurio to OTSOXX]
+[19Jan2025 04:49:10.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [The Beginning of the End]
+[19Jan2025 04:49:10.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [The Beginning of the End]
+[19Jan2025 04:49:11.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio blew up
+[19Jan2025 04:49:20.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX was burnt to a crisp whilst fighting Luxtructosaurus
+[19Jan2025 04:49:41.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio was slain by Luxtructosaurus
+[19Jan2025 04:50:00.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio was burnt to a crisp whilst fighting Luxtructosaurus
+[19Jan2025 04:50:04.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX was blown up by Luxtructosaurus
+[19Jan2025 04:50:09.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[19Jan2025 04:50:12.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:50:17.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:50:26.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19Jan2025 04:50:41.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio burned to death
+[19Jan2025 04:50:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX was burnt to a crisp whilst fighting Luxtructosaurus
+[19Jan2025 04:50:57.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Town of Bedrock]
+[19Jan2025 04:50:57.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 04:51:09.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:51:10.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 04:51:16.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:51:28.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Jan2025 04:51:33.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio was slain by Luxtructosaurus
+[19Jan2025 04:51:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX was doomed to fall by Luxtructosaurus
+[19Jan2025 04:51:51.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:52:06.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:52:09.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:52:13.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19Jan2025 04:52:16.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:52:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:52:23.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 04:52:47.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio blew up
+[19Jan2025 04:53:04.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[19Jan2025 04:53:08.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported FazeDinosaurio to OTSOXX]
+[19Jan2025 04:53:10.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
