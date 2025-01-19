@@ -458,3 +458,77 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Jan2025 04:53:04.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
 [19Jan2025 04:53:08.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported FazeDinosaurio to OTSOXX]
 [19Jan2025 04:53:10.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:53:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Tree Stars!!!]
+[19Jan2025 04:53:26.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7150ms or 143 ticks behind
+[19Jan2025 04:53:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 04:53:33.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio walked into the danger zone due to Luxtructosaurus
+[19Jan2025 04:53:35.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:53:41.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX blew up
+[19Jan2025 04:53:51.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:54:05.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported OTSOXX to -2673.500000, -34.500000, 1148.500000]
+[19Jan2025 04:54:12.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported FazeDinosaurio to OTSOXX]
+[19Jan2025 04:54:21.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Jan2025 04:54:36.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio burned to death
+[19Jan2025 04:54:39.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3347ms or 66 ticks behind
+[19Jan2025 04:54:43.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 04:55:03.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[19Jan2025 04:55:18.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Town of Bedrock]
+[19Jan2025 04:55:21.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[19Jan2025 04:56:03.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19Jan2025 04:56:22.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported FazeDinosaurio to OTSOXX]
+[19Jan2025 04:56:26.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:56:28.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:56:42.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Jan2025 04:56:59.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[19Jan2025 04:57:18.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4195ms or 83 ticks behind
+[19Jan2025 04:57:35.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[19Jan2025 04:57:55.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4977ms or 99 ticks behind
+[19Jan2025 04:58:10.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:58:12.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:58:13.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
+[19Jan2025 04:58:15.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:58:18.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 04:58:28.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:58:29.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 04:58:31.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
+[19Jan2025 04:58:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:58:45.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio was slain by Luxtructosaurus
+[19Jan2025 04:58:49.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported FazeDinosaurio to OTSOXX]
+[19Jan2025 04:58:50.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4899ms or 97 ticks behind
+[19Jan2025 04:59:05.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio was slain by Luxtructosaurus
+[19Jan2025 04:59:09.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 04:59:11.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Tree Stars!!!]
+[19Jan2025 04:59:12.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6484ms or 129 ticks behind
+[19Jan2025 04:59:16.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported FazeDinosaurio to OTSOXX]
+[19Jan2025 04:59:21.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:59:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio discovered the floor was lava
+[19Jan2025 04:59:29.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[19Jan2025 04:59:40.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Made FazeDinosaurio a server operator]
+[19Jan2025 04:59:50.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FazeDinosaurio: Teleported FazeDinosaurio to -2615.500000, -33.500000, 1193.500000]
+[19Jan2025 04:59:51.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19Jan2025 04:59:55.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FazeDinosaurio: Set own game mode to Creative Mode]
+[19Jan2025 04:59:58.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 05:00:09.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 05:00:10.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 05:00:10.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4192ms or 83 ticks behind
+[19Jan2025 05:00:14.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 05:00:21.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 05:00:24.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 05:00:27.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 05:00:28.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2582ms or 51 ticks behind
+[19Jan2025 05:00:29.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FazeDinosaurio: Set own game mode to Survival Mode]
+[19Jan2025 05:00:30.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 05:00:33.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FazeDinosaurio: Set own game mode to Creative Mode]
+[19Jan2025 05:00:34.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FazeDinosaurio: Set own game mode to Survival Mode]
+[19Jan2025 05:00:36.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FazeDinosaurio: Set own game mode to Creative Mode]
+[19Jan2025 05:00:37.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 05:00:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 05:00:53.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[19Jan2025 05:01:14.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 05:01:16.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 05:01:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 05:01:32.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 05:01:35.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19Jan2025 05:01:44.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has completed the challenge [The End... of the Beginning]
+[19Jan2025 05:01:53.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[19Jan2025 05:02:59.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
