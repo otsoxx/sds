@@ -296,3 +296,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Jan2025 02:46:59.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
 [19Jan2025 02:46:59.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OTSOXX moved too quickly! -7.817566221905281,-6.078400001525878,-2.5208899648189345
 [19Jan2025 02:47:56.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX fell from a high place
+[19Jan2025 02:52:18.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Suit Up]
+[19Jan2025 02:58:02.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FazeDinosaurio[/100.105.3.54:56384] logged in with entity id 13997 at (-412.30467906842364, 89.0, 1093.4216660309814)
+[19Jan2025 02:58:02.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio joined the game
+[19Jan2025 02:58:15.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OTSOXX> xaero-waypoint:S:S:-1071:-20:1924:14:false:0:Internal-overworld-waypoints
+[19Jan2025 02:59:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Chest Slayer]
+[19Jan2025 02:59:41.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Ice Bucket Challenge]
+[19Jan2025 02:59:41.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Amateur Archaeologist]
+[19Jan2025 03:02:09.396] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-1115, y=70, z=1605}
+[19Jan2025 03:02:47.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 03:03:25.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 03:04:14.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Amateur Archaeologist]
+[19Jan2025 03:07:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [This Must be a Sign!]
+[19Jan2025 03:07:55.864] [pool-5-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-1707, y=70, z=1947}
+[19Jan2025 03:07:58.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OTSOXX moved too quickly! -10.112276880233821,0.2712241076924897,-0.5026438669458457
+[19Jan2025 03:07:58.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FazeDinosaurio moved too quickly! -7.049644487310161,-4.975575911786308,5.599262875814702
+[19Jan2025 03:07:58.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
