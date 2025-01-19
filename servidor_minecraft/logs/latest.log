@@ -337,3 +337,64 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Jan2025 03:50:23.173] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2955, y=69, z=715} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
 [19Jan2025 03:50:23.174] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-2955, y=69, z=715}
 [19Jan2025 03:50:42.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Chompy]
+[19Jan2025 03:51:42.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[19Jan2025 03:52:28.452] [pool-5-thread-6/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-3285, y=74, z=747}
+[19Jan2025 03:52:29.111] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3285, y=74, z=747} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] at location
+[19Jan2025 03:52:29.112] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-3285, y=74, z=747}
+[19Jan2025 03:54:26.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3194, y=75, z=1003} BlockPos{x=-3193, y=74, z=1001}
+[19Jan2025 03:54:26.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3194, y=75, z=1003} BlockPos{x=-3193, y=74, z=1001}
+[19Jan2025 03:54:26.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3194, y=75, z=1003} BlockPos{x=-3193, y=74, z=1001}
+[19Jan2025 03:54:26.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3194, y=75, z=1003} BlockPos{x=-3193, y=74, z=1001}
+[19Jan2025 03:54:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX was slain by Murmur
+[19Jan2025 03:55:07.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Flexible Schedule]
+[19Jan2025 03:56:09.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX was shot by Skeleton
+[19Jan2025 03:56:30.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Junior Summoner]
+[19Jan2025 03:57:35.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Double Trouble]
+[19Jan2025 03:59:19.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has reached the goal [Big Boy]
+[19Jan2025 03:59:22.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 03:59:32.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Adventure Mode]
+[19Jan2025 03:59:33.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:00:26.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:00:40.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:01:53.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:02:03.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:02:15.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:02:25.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:02:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:05:04.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:05:13.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OTSOXX> xaero-waypoint:aca:A:-2570:-25:1085:9:false:0:Internal-overworld-waypoints
+[19Jan2025 04:05:15.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:06:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:06:41.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Spectator Mode]
+[19Jan2025 04:07:04.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 04:08:04.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FazeDinosaurio lost connection: Disconnected
+[19Jan2025 04:08:04.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio left the game
+[19Jan2025 04:08:15.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FazeDinosaurio[/100.105.3.54:58764] logged in with entity id 53934 at (-2598.370949307742, 67.0, 1087.2302084776438)
+[19Jan2025 04:08:15.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio joined the game
+[19Jan2025 04:08:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX fell from a high place
+[19Jan2025 04:08:37.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported OTSOXX to FazeDinosaurio]
+[19Jan2025 04:10:18.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has reached the goal [The Cave That Time Forgot]
+[19Jan2025 04:10:44.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has reached the goal [The Cave That Time Forgot]
+[19Jan2025 04:12:58.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX burned to death
+[19Jan2025 04:13:03.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported OTSOXX to FazeDinosaurio]
+[19Jan2025 04:14:34.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Life Finds A Way]
+[19Jan2025 04:19:18.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Swaggy Meal Mommy Made It]
+[19Jan2025 04:19:36.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Swaggy Meal Mommy Made It]
+[19Jan2025 04:19:42.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Life Finds A Way]
+[19Jan2025 04:20:00.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [It Belongs in a Museum]
+[19Jan2025 04:22:00.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Re-Extinct]
+[19Jan2025 04:22:00.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX tried to swim in lava
+[19Jan2025 04:22:06.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported OTSOXX to FazeDinosaurio]
+[19Jan2025 04:22:07.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Tastes Like Chicken]
+[19Jan2025 04:22:25.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX tried to swim in lava
+[19Jan2025 04:22:28.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported OTSOXX to FazeDinosaurio]
+[19Jan2025 04:22:47.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX burned to death
+[19Jan2025 04:22:50.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported OTSOXX to FazeDinosaurio]
+[19Jan2025 04:23:11.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Re-Extinct]
+[19Jan2025 04:23:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Tastes Like Chicken]
+[19Jan2025 04:24:37.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX burned to death
+[19Jan2025 04:26:57.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Law of Club and Fang]
+[19Jan2025 04:27:04.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX was slain by Grottoceratops
+[19Jan2025 04:27:23.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[19Jan2025 04:29:45.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio was slain by Vallumraptor
+[19Jan2025 04:29:59.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported FazeDinosaurio to OTSOXX]

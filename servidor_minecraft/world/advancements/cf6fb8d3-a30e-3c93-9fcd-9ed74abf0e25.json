@@ -19,11 +19,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-01-19 04:04:16 +0000",
       "minecraft:savanna_plateau": "2025-01-18 03:51:18 +0000",
       "minecraft:stony_peaks": "2025-01-18 04:13:26 +0000",
       "minecraft:river": "2025-01-18 03:54:54 +0000",
       "minecraft:stony_shore": "2025-01-18 03:44:22 +0000",
+      "minecraft:dripstone_caves": "2025-01-19 04:04:06 +0000",
       "minecraft:forest": "2025-01-19 02:33:49 +0000",
+      "minecraft:flower_forest": "2025-01-19 04:04:12 +0000",
       "minecraft:deep_dark": "2025-01-18 04:21:56 +0000",
       "minecraft:savanna": "2025-01-18 03:44:30 +0000",
       "minecraft:plains": "2025-01-19 02:34:00 +0000"
@@ -1752,6 +1755,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-01-19 04:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-01-19 02:52:18 +0000"
@@ -1800,6 +1809,18 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_boots": {
+    "criteria": {
+      "has_req": "2025-01-19 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_chestplate": {
+    "criteria": {
+      "has_req": "2025-01-19 04:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
@@ -1809,6 +1830,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-01-19 04:08:59 +0000"
     },
     "done": true
   },
@@ -1836,6 +1863,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-01-19 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/infused_lava/infused_lava_helmet_alt": {
+    "criteria": {
+      "has_req": "2025-01-19 04:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
@@ -1860,6 +1899,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_helmet": {
+    "criteria": {
+      "has_req": "2025-01-19 04:26:40 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_sword": {
     "criteria": {
       "has_req": "2025-01-19 03:46:04 +0000"
@@ -1872,9 +1917,21 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/smithing/infused_frost_crystal_adv": {
+    "criteria": {
+      "has_req": "2025-01-19 04:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-19 02:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-19 04:26:40 +0000"
     },
     "done": true
   },
@@ -1926,6 +1983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 03:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-01-19 02:29:12 +0000"
@@ -1974,6 +2037,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-19 04:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 02:48:44 +0000"
@@ -1983,6 +2052,18 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-01-19 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_arrow": {
+    "criteria": {
+      "has_req": "2025-01-19 04:02:06 +0000"
     },
     "done": true
   },
@@ -2019,6 +2100,18 @@
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-01-19 02:44:30 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_helmet_alt": {
+    "criteria": {
+      "has_req": "2025-01-19 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-19 04:20:00 +0000"
     },
     "done": true
   },
@@ -2082,6 +2175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-19 04:08:59 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/guardian/guardian_battle_axe_base": {
     "criteria": {
       "has_req": "2025-01-19 03:46:04 +0000"
@@ -2115,6 +2214,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
     "criteria": {
       "has_req": "2025-01-19 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/infused_lava/infused_lava_boots_alt": {
+    "criteria": {
+      "has_req": "2025-01-19 04:02:06 +0000"
     },
     "done": true
   },
@@ -2154,6 +2259,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-19 04:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-19 03:15:07 +0000"
@@ -2172,6 +2283,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 03:59:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-01-19 03:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 03:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 02:48:44 +0000"
@@ -2181,6 +2310,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-19 03:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-01-19 03:55:15 +0000"
     },
     "done": true
   },
@@ -2214,9 +2349,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-19 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 03:59:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-19 04:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-01-19 03:55:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-19 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/infused_lava/infused_lava_chestplate": {
+    "criteria": {
+      "has_req": "2025-01-19 04:02:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-19 04:23:25 +0000"
     },
     "done": true
   },
@@ -2268,6 +2439,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/infused_lava/infused_lava_leggings": {
+    "criteria": {
+      "has_req": "2025-01-19 04:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-01-19 03:45:56 +0000"
@@ -2277,6 +2454,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-01-19 02:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-19 04:08:59 +0000"
     },
     "done": true
   },
@@ -2298,6 +2481,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_boots_alt": {
+    "criteria": {
+      "has_req": "2025-01-19 04:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-01-19 03:34:10 +0000"
@@ -2316,6 +2505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-19 04:08:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-01-19 02:40:17 +0000"
@@ -2331,6 +2526,18 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-19 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_leggings": {
+    "criteria": {
+      "has_req": "2025-01-19 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-01-19 03:57:35 +0000"
     },
     "done": true
   },
@@ -2424,6 +2631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 03:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
@@ -2445,6 +2658,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-19 02:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-19 04:08:59 +0000"
     },
     "done": true
   },
@@ -2490,6 +2709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-19 04:08:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
     "criteria": {
       "has_moss_block": "2025-01-19 03:28:36 +0000"
@@ -2502,9 +2727,27 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/block_infused_lava_crystal": {
+    "criteria": {
+      "has_req": "2025-01-19 04:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-19 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/infused_lava/infused_lava_helmet": {
+    "criteria": {
+      "has_req": "2025-01-19 04:02:06 +0000"
     },
     "done": true
   },
@@ -2544,9 +2787,21 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/infused_lava/infused_lava_boots": {
+    "criteria": {
+      "has_req": "2025-01-19 04:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-01-19 04:23:11 +0000"
     },
     "done": true
   },
@@ -2559,6 +2814,12 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/slayer/slayer_sword_base": {
     "criteria": {
       "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-01-19 04:08:59 +0000"
     },
     "done": true
   },
@@ -2583,6 +2844,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-01-19 02:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-01-19 03:55:15 +0000"
     },
     "done": true
   },
