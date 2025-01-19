@@ -1782,6 +1782,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_pickaxe_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-19 03:23:58 +0000"
@@ -1824,6 +1830,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-01-19 03:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
@@ -1845,6 +1857,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_sword": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
     },
     "done": true
   },
@@ -1875,6 +1893,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-19 02:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-19 03:45:26 +0000"
     },
     "done": true
   },
@@ -1914,6 +1938,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_battle_axe": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
@@ -1923,6 +1953,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-19 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_pickaxe_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
     },
     "done": true
   },
@@ -1950,6 +1986,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/guardian/guardian_mace": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-01-19 02:40:17 +0000"
@@ -1959,6 +2001,12 @@
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-01-19 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/super_star/super_star_mace": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
     },
     "done": true
   },
@@ -1989,6 +2037,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_sword_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
     },
     "done": true
   },
@@ -2028,9 +2082,21 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/guardian/guardian_battle_axe_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-19 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/guardian/guardian_mace_alt": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
     },
     "done": true
   },
@@ -2043,6 +2109,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-19 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
+    "criteria": {
+      "has_req": "2025-01-19 03:45:56 +0000"
     },
     "done": true
   },
@@ -2070,6 +2142,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/guardian/guardian_pickaxe_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
@@ -2085,6 +2163,12 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-01-19 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/ender_dragon/ender_dragon_mace_alt": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
     },
     "done": true
   },
@@ -2160,6 +2244,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_sword_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
@@ -2175,6 +2265,12 @@
   "born_in_chaos_v1:dark_forging": {
     "criteria": {
       "dark_forging_0": "2025-01-19 03:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-19 03:45:56 +0000"
     },
     "done": true
   },
@@ -2208,6 +2304,18 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2025-01-19 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_battle_axe_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-01-19 02:40:17 +0000"
@@ -2217,6 +2325,24 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-01-19 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-19 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/slayer/slayer_pickaxe_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/building_blocks/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2025-01-19 03:45:56 +0000"
     },
     "done": true
   },
@@ -2256,9 +2382,27 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_pickaxe": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/super_star/super_star_mace_alt": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-01-19 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/ender_dragon/ender_dragon_mace": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
     },
     "done": true
   },
@@ -2286,6 +2430,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_mace_alt": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 02:58:22 +0000"
@@ -2295,6 +2445,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-19 02:59:41 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/slayer/slayer_battle_axe_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
     },
     "done": true
   },
@@ -2340,6 +2496,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/compressed_obsidian": {
+    "criteria": {
+      "has_req": "2025-01-19 03:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 02:48:44 +0000"
@@ -2352,9 +2514,27 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_mace": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-19 03:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-19 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/guardian/guardian_sword_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
     },
     "done": true
   },
@@ -2376,9 +2556,21 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/slayer/slayer_sword_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-19 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_battle_axe_base": {
+    "criteria": {
+      "has_req": "2025-01-19 03:46:04 +0000"
     },
     "done": true
   },
