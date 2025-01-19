@@ -532,3 +532,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Jan2025 05:01:44.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has completed the challenge [The End... of the Beginning]
 [19Jan2025 05:01:53.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
 [19Jan2025 05:02:59.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 05:03:40.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[19Jan2025 05:03:55.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FazeDinosaurio: Set own game mode to Survival Mode]
+[19Jan2025 05:04:01.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5179ms or 103 ticks behind
+[19Jan2025 05:04:03.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 05:04:20.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19Jan2025 05:12:34.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FazeDinosaurio) moved wrongly! 0.4580078125
+[19Jan2025 05:12:34.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FazeDinosaurio) moved wrongly! 0.4580078125
+[19Jan2025 05:12:34.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FazeDinosaurio) moved wrongly! 0.4580078125
+[19Jan2025 05:13:41.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FazeDinosaurio) moved wrongly! 0.5032231336049335
+[19Jan2025 05:16:06.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX was slain by Guardian
+[19Jan2025 05:16:17.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Teleported OTSOXX to FazeDinosaurio]
+[19Jan2025 05:17:16.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has made the advancement [Alex's Caves]
+[19Jan2025 05:17:16.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Alex's Caves]
+[19Jan2025 05:17:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Once Upon a Cave]
+[19Jan2025 05:18:32.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Creative Mode]
+[19Jan2025 05:18:38.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FazeDinosaurio: Set own game mode to Creative Mode]
+[19Jan2025 05:18:42.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OTSOXX: Set own game mode to Survival Mode]
+[19Jan2025 05:18:47.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FazeDinosaurio: Set own game mode to Survival Mode]
+[19Jan2025 05:20:21.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OTSOXX has made the advancement [Bypassing the Expiration Date]
+[19Jan2025 05:22:14.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FazeDinosaurio has reached the goal [Senior Summoner]
+[19Jan2025 05:23:56.872] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
